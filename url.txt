@@ -1,2 +1,2 @@
 tcp://0.tcp.ap.ngrok.io:15403
-https://validation-plugin-regulation-comedy.trycloudflare.com/gro
+http://validation-plugin-regulation-comedy.trycloudflare.com/gro
