@@ -1,2 +1,2 @@
 tcp://0.tcp.ap.ngrok.io:16292
-http://scanners-situation-spencer-polymer.trycloudflare.com/gro
+http://scanners-situation-spencer-polymer.trycloudflare.com/grox
