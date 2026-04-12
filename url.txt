@@ -1,2 +1,2 @@
-tcp://0.tcp.ap.ngrok.io:15403
-http://validation-plugin-regulation-comedy.trycloudflare.com/gro
+tcp://0.tcp.ap.ngrok.io:11620
+https://teeth-fall-preserve-roses.trycloudflare.com/gro
