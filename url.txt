@@ -1,2 +1,3 @@
-tcp://0.tcp.ap.ngrok.io:16193
-https://ranch-replacing-cellular-region.trycloudflare.com/gro
+id = Default
+Default = 100:0.tcp.ap.ngrok.io:10798:10798
+https://bought-radios-closed-viewer.trycloudflare.com
