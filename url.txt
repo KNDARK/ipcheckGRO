@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:19792
-https://filename-mid-strips-zealand.trycloudflare.com
+0.tcp.ap.ngrok.io:18753
+https://focal-coating-remains-caribbean.trycloudflare.com
