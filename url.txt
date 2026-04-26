@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:19502
-https://money-standards-tony-rep.trycloudflare.com
+0.tcp.ap.ngrok.io:19792
+https://filename-mid-strips-zealand.trycloudflare.com
