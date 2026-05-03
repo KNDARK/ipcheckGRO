@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:25417
-https://amy-applied-setting-pharmaceuticals.trycloudflare.com
+0.tcp.ap.ngrok.io:18616
+https://details-carter-democratic-isolation.trycloudflare.com
