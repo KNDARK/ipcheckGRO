@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:16555
-https://survey-brighton-panel-taking.trycloudflare.com
+0.tcp.ap.ngrok.io:23249
+https://objects-coupled-belly-tenant.trycloudflare.com
