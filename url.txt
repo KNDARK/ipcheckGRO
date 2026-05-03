@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:24355
-https://had-brooklyn-rescue-floppy.trycloudflare.com
+0.tcp.ap.ngrok.io:14777
+https://conclusions-status-sure-domains.trycloudflare.com
