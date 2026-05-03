@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:10752
-https://java-step-money-rob.trycloudflare.com
+0.tcp.ap.ngrok.io:20281
+https://tagged-kruger-scientist-vary.trycloudflare.com
