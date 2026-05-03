@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:25844
-https://locking-cameron-gates-metropolitan.trycloudflare.com
+0.tcp.ap.ngrok.io:16824
+https://blowing-attributes-delivered-stamps.trycloudflare.com
