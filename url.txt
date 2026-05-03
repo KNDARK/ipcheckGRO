@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:23249
-https://objects-coupled-belly-tenant.trycloudflare.com
+0.tcp.ap.ngrok.io:14709
+https://leslie-bubble-enb-bent.trycloudflare.com
