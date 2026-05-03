@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:14287
-https://queries-sand-vegetable-earthquake.trycloudflare.com
+0.tcp.ap.ngrok.io:12578
+https://gulf-minute-chapters-everybody.trycloudflare.com
