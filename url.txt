@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:18616
-https://details-carter-democratic-isolation.trycloudflare.com
+0.tcp.ap.ngrok.io:10382
+https://engage-batch-composer-salary.trycloudflare.com
