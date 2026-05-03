@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:22819
-https://observations-come-systems-sponsored.trycloudflare.com
+0.tcp.ap.ngrok.io:24355
+https://had-brooklyn-rescue-floppy.trycloudflare.com
