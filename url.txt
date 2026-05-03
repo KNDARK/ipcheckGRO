@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:29579
-https://tape-stress-says-physics.trycloudflare.com
+0.tcp.ap.ngrok.io:19636
+https://oem-joyce-proteins-period.trycloudflare.com
