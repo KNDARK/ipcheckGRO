@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:14777
-https://conclusions-status-sure-domains.trycloudflare.com
+0.tcp.ap.ngrok.io:12042
+https://goes-mil-divide-hobby.trycloudflare.com
