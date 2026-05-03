@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:19138
-https://she-development-mileage-harley.trycloudflare.com
+0.tcp.ap.ngrok.io:15358
+https://economic-qualification-techrepublic-headset.trycloudflare.com
