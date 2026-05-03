@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:14709
-https://leslie-bubble-enb-bent.trycloudflare.com
+0.tcp.ap.ngrok.io:10752
+https://java-step-money-rob.trycloudflare.com
