@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:12042
-https://goes-mil-divide-hobby.trycloudflare.com
+0.tcp.ap.ngrok.io:14287
+https://queries-sand-vegetable-earthquake.trycloudflare.com
