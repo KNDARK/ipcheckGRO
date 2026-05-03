@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:14966
-https://appliance-pipe-seat-budget.trycloudflare.com
+0.tcp.ap.ngrok.io:28213
+https://animated-docs-agency-talent.trycloudflare.com
