@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:19636
-https://oem-joyce-proteins-period.trycloudflare.com
+0.tcp.ap.ngrok.io:14966
+https://appliance-pipe-seat-budget.trycloudflare.com
