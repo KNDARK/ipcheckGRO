@@ -1,2 +1,2 @@
-0.tcp.ap.ngrok.io:20281
-https://tagged-kruger-scientist-vary.trycloudflare.com
+0.tcp.ap.ngrok.io:20678
+https://delaware-thumbzilla-hiking-necessarily.trycloudflare.com
